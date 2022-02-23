@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comical remarks on the public reports</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34118</idno>
+            <idno type="STC">Wing C5540</idno>
+            <idno type="STC">ESTC R39839</idno>
+            <idno type="EEBO-CITATION">18508128</idno>
+            <idno type="OCLC">ocm 18508128</idno>
+            <idno type="VID">107929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1649:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Comical remarks on the public reports</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="collection_of_poems">
+            <pb facs="tcp:107929:1" rendition="simple:additions"/>
+            <head>COMICAL REMARKS ON THE Publick REPORTS.</head>
+            <div type="poem">
+               <head>
+                  <hi>From</hi> Rome.</head>
+               <lg>
+                  <l>THE Pious <hi>French</hi> King is become <hi>Savoys</hi> Friend,<note place="margin">Report.</note>
+                  </l>
+                  <l>And offers to yield the Affairs to Debate,</l>
+                  <l>As Umpire of which do's the Pope recommend,</l>
+                  <l>Whom 'tis thought he has cunningly purchas'd of late.</l>
+                  <l>'Tis ſtrange the Church Right ſhould now be thruſt in,<note place="margin">Remark.</note>
+                  </l>
+                  <l>And the War declar'd Holy, which ſo late was a Sin;</l>
+                  <l>When Religion ſo ſcanty between 'em is known;</l>
+                  <l>If the Pope may have any, the Monſieur has none.</l>
+               </lg>
+               <p>
+                  <hi>When two old Enemies joyn Forces, that there's Miſchief hatching againſt ſome Body, is ſtale News.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>From</hi> Paris.</head>
+               <lg>
+                  <l>Nine Second Rate Frigats, built ſpick and ſpan new,<note place="margin">Report.</note>
+                  </l>
+                  <l>At <hi>Breſt</hi> joyn the Fleet, ſome Exploit to purſue:</l>
+                  <l>Prepar'd, not to Hector at <hi>Torbay</hi> again,</l>
+                  <l>But Challenge us nearer on <hi>Salisbury-plain.</hi>
+                  </l>
+                  <l>But yet if the King and the Commons unite,<note place="margin">Remark.</note>
+                  </l>
+                  <l>And ſend but an Admiral out that will fight;</l>
+                  <l>We may make 'em pay ſauce for the Sheep that they ſteal,</l>
+                  <l>And <hi>Baiſe nos Culs</hi> ſay to Monſieur <hi>Tourvile.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>This is no ill News if Money comes in briskly, and the Fleets are equal.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>From</hi> Deal.</head>
+               <lg>
+                  <l>'Tis ſent by the Poſt to the <hi>Portugal</hi> Walk,<note place="margin">Report.</note>
+                  </l>
+                  <l>That the <hi>French</hi> Privateers have once had a balk;</l>
+                  <l>That inſtead of good Plunder, the Joy of their Souls.</l>
+                  <l>They have miſs'd our PlateFleet, and have ſeiz'd on our Coals.</l>
+                  <l>A pretty miſtake, but can do them no harm,<note place="margin">Remark.</note>
+                  </l>
+                  <l>For if not enrich'd, they may keep themſelves warm;</l>
+                  <l>And tho 'tis all Dirt, in a ſenſe taken right,</l>
+                  <l>We better can ſpare them the black than the white.</l>
+                  <l>Mean while in the City, their Joys are at full,</l>
+                  <l>Theſe Forty Sail Laden with Bullion and Wool,</l>
+                  <l>Will make them ſo generous, that when they've Survey'd,</l>
+                  <l>The next happy Votes, for the new Royal Aid,</l>
+                  <l>To pleaſure the King, their dear Gold they'll relax,</l>
+                  <l>Nor bate him his Cuſtoms, nor grudge him his Tax.</l>
+               </lg>
+               <p>
+                  <hi>Good News for the City, with a ſmall Jerk at their Purſes.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>From</hi> Plimouth.</head>
+               <lg>
+                  <l>For want of good Convoy, by numbers oppreſt,<note place="margin">Report.</note>
+                  </l>
+                  <l>The <hi>Dutch</hi> have loſt Ships by the ſcowrers of <hi>Breſt;</hi>
+                  </l>
+                  <l>Which ſhews Chance of War is to loſe as to win,</l>
+                  <l>Since laſt Week, 'tis ſaid, they two Prizes brought in;</l>
+                  <l>One laden with Brandy, for Comfort and Eaſe,</l>
+                  <l>The other with Salt Herrings, Butter and Cheeſe.</l>
+                  <l>What's better than Butter, in which they delight;<note place="margin">Remark.</note>
+                  </l>
+                  <l>Or Cheeſe, dear as Butter, to cauſe 'em to fight:</l>
+                  <l>Tho Brandy and Herrings do purchaſe their praiſe,</l>
+                  <l>Cauſe Brandy the Salt of the Herrings allays:</l>
+                  <pb facs="tcp:107929:2"/>
+                  <l>Yet Butter their Bellies much better does ſin,</l>
+                  <l>Their Bellies, when Butter'd, have Courage at will:</l>
+                  <l>And to make my Verſe Chime with a clink in the cloſe,</l>
+                  <l>For Butter, they better do batter their Foes.</l>
+               </lg>
+               <p>
+                  <hi>This fat News makes two ſort of Mouths water, Cheeſemon<g ref="char:EOLhyphen"/>gers, and a part of the Foot Guards.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>From</hi> Whitehall.</head>
+               <lg>
+                  <l>From hence 'tis reported there lately was ſent,<note place="margin">Report.</note>
+                  </l>
+                  <l>An Order of Council<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to Try Mrs. <hi>Br—t,</hi>
+                  </l>
+                  <l>Accus'd for receiving, as Fame loudly Sings,</l>
+                  <l>Strange Letters in Cyphers, containing ſhrewd things.</l>
+                  <l>A Prieſt late Converted, has thought fit to tell us,</l>
+                  <l>The Warming-pan Plot of the late little <hi>Wallus,</hi>
+                  </l>
+                  <l>Which ſhe to improve, Correſpondence did uſe,</l>
+                  <l>With Foreign Abettors in cloſe <hi>Billet Doux.</hi>
+                  </l>
+                  <l>Did ever a Plot to a Miſchief extend,<note place="margin">Remark.</note>
+                  </l>
+                  <l>But always a Woman would be at one end</l>
+                  <l>To them a Stanch <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill can be ne're out of Seaſon,</l>
+                  <l>They will be Intreagu'd, tho' the Caſe be High Treaſon.</l>
+                  <l>But now if the Judges ſhould be ſo preciſe,</l>
+                  <l>To Sentence her for it, If I might Adviſe,</l>
+                  <l>She of the Indictment a Copy ſhould draw,</l>
+                  <l>And bring in her Husband to prove 'tis no Law.</l>
+               </lg>
+               <p>
+                  <hi>If the News Paper ſhould chance to Lye, here's a good Jeſt ſpoil'd now.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>From</hi> Brentford.</head>
+               <lg>
+                  <l>A Limb of the Law, near a hundred years old,<note place="margin">Report.</note>
+                  </l>
+                  <l>Has took an occaſion to dye of a Cold;</l>
+                  <l>For whom floods of Tears do ſo guſh from all Eyes,</l>
+                  <l>Tis thought, in the Country, the Waters will riſe.</l>
+                  <l>The loſs is ſo great that it reaches to me.<note place="margin">Remark.</note>
+                  </l>
+                  <l>That now write his Epitaph without a Fee:</l>
+                  <l>
+                     <hi>If any Enquire who is under this Stone,</hi>
+                  </l>
+                  <l>
+                     <hi>Let him know he's not Dead, but the Circuit is gone,</hi>
+                  </l>
+                  <l>
+                     <hi>In Dirt fix foot deep, as he ſtill us'd to be;</hi>
+                  </l>
+                  <l>
+                     <hi>He's trudg'd with the Judges to get a good Fee.</hi>
+                  </l>
+                  <l>
+                     <hi>Gold this ſide, and that ſide, his Judgment could draw,</hi>
+                  </l>
+                  <l>
+                     <hi>He beſt could Plead Nonſence, and beſt make it Law;</hi>
+                  </l>
+                  <l>
+                     <hi>To Right, or to Ruine, his Skill was beſt known,</hi>
+                  </l>
+                  <l>
+                     <hi>And careful of every Mans Heirs but his own.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Few Words are beſt, and I think I deſerve a Ring for theſe.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>From the Court of Requeſts.</head>
+               <lg>
+                  <l>The Senate, the Crowns proper Charge to disburſe,<note place="margin">Report.</note>
+                  </l>
+                  <l>As proof of their Loyalty open their Purſe.</l>
+                  <l>The Kings Royal Speech they with Candour receive;</l>
+                  <l>Nor can he ask more than they're ready to give.</l>
+                  <l>Beſt proof of Obedience by Money is ſhown,<note place="margin">Remark.</note>
+                  </l>
+                  <l>The ableſt ſupport of the Law and the Crown.</l>
+                  <l>If Money be given, we may ſhake off our Fears,<note place="margin">
+                        <hi>Poictiers,</hi> where <hi>Edward</hi> Prince of <hi>Wales</hi> won a great Victory over the <hi>French,</hi> and took the King Priſoner.</note>
+                  </l>
+                  <l>Whilſt the <hi>French</hi> find the Fate as before at <hi>Poictiers.</hi>
+                  </l>
+                  <l>'Tis that, does our conſequent bleſſings prepare,</l>
+                  <l>The life blood of Peace, as the Nerve of the War;</l>
+                  <l>Who then of his Bullion would tell a vain Tale,</l>
+                  <l>Or bragg of his Toping in Plate, his ſtrong Ale,</l>
+                  <l>When Coyn'd into Money it ſafety might bring,</l>
+                  <l>To his Country, Himſelf, his Religion and King.</l>
+               </lg>
+               <p>
+                  <hi>Good News to Men of Senſe, and pleaſing to all that are not</hi> Jacobites, <hi>or Madmen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed and are to be ſold by <hi>Randal Taylor,</hi> near <hi>Sta<g ref="char:EOLhyphen"/>tioners-Hall.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
